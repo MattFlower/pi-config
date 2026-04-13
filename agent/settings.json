@@ -1,0 +1,18 @@
+{
+  "lastChangelogVersion": "0.66.1",
+  "defaultProvider": "openai",
+  "defaultModel": "gpt-5.3-codex",
+  "defaultThinkingLevel": "high",
+  "packages": [
+    {
+      "source": "npm:pi-jujutsu",
+      "extensions": [
+        "-dist/index.js"
+      ]
+    },
+    "npm:pi-jj",
+    "npm:@tmustier/pi-usage-extension",
+    "npm:pi-subagents"
+  ],
+  "skills": []
+}
