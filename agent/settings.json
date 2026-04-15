@@ -1,6 +1,6 @@
 {
-  "lastChangelogVersion": "0.66.1",
-  "defaultProvider": "openai",
+  "lastChangelogVersion": "0.67.2",
+  "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.3-codex",
   "defaultThinkingLevel": "high",
   "packages": [
@@ -12,7 +12,9 @@
     },
     "npm:pi-jj",
     "npm:@tmustier/pi-usage-extension",
-    "npm:pi-subagents"
+    "npm:pi-subagents",
+    "npm:pi-btw",
+    "npm:pi-lens"
   ],
   "skills": []
 }
