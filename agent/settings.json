@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "0.67.2",
+  "lastChangelogVersion": "0.67.3",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.3-codex",
   "defaultThinkingLevel": "high",
@@ -14,7 +14,14 @@
     "npm:@tmustier/pi-usage-extension",
     "npm:pi-subagents",
     "npm:pi-btw",
-    "npm:pi-lens"
+    "npm:pi-lens",
+    "npm:pi-teams",
+    "npm:pi-interactive-shell",
+    "npm:@ifi/pi-plan",
+    "npm:pi-dj",
+    "npm:@ifi/oh-pi-themes",
+    "npm:pi-extmgr",
+    "npm:pi-review-loop"
   ],
   "skills": []
 }

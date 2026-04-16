@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "packages": {
+    "pi-subagents": {
+      "name": "pi-subagents",
+      "size": 689115,
+      "timestamp": 1776304173928
+    },
+    "pi-btw": {
+      "name": "pi-btw",
+      "size": 333592,
+      "timestamp": 1776304173935
+    },
+    "pi-jj": {
+      "name": "pi-jj",
+      "size": 107361,
+      "timestamp": 1776304173979
+    },
+    "pi-jujutsu": {
+      "name": "pi-jujutsu",
+      "size": 14315,
+      "timestamp": 1776304174004
+    },
+    "@tmustier/pi-usage-extension": {
+      "name": "@tmustier/pi-usage-extension",
+      "size": 221038,
+      "timestamp": 1776304174075
+    },
+    "pi-dj": {
+      "name": "pi-dj",
+      "size": 2859940,
+      "timestamp": 1776304174429
+    },
+    "pi-teams": {
+      "name": "pi-teams",
+      "size": 222934,
+      "timestamp": 1776304174435
+    },
+    "pi-interactive-shell": {
+      "name": "pi-interactive-shell",
+      "size": 1571036,
+      "timestamp": 1776304174454
+    },
+    "pi-lens": {
+      "name": "pi-lens",
+      "size": 1486228,
+      "timestamp": 1776304174464
+    },
+    "@ifi/pi-plan": {
+      "name": "@ifi/pi-plan",
+      "size": 81928,
+      "timestamp": 1776304174735
+    },
+    "pi-extmgr": {
+      "name": "pi-extmgr",
+      "size": 244477,
+      "timestamp": 1776304175012
+    },
+    "@ifi/oh-pi-themes": {
+      "name": "@ifi/oh-pi-themes",
+      "size": 13108,
+      "timestamp": 1776304175105
+    }
+  }
+}
