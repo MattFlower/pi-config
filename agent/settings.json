@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "0.67.3",
+  "lastChangelogVersion": "0.67.68",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.3-codex",
   "defaultThinkingLevel": "high",
@@ -23,5 +23,6 @@
     "npm:pi-extmgr",
     "npm:pi-review-loop"
   ],
-  "skills": []
+  "skills": [],
+  "theme": "catppuccin-mocha"
 }

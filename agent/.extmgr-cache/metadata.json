@@ -3,63 +3,68 @@
   "packages": {
     "pi-subagents": {
       "name": "pi-subagents",
-      "size": 689115,
-      "timestamp": 1776304173928
+      "timestamp": 1776724438913,
+      "size": 736197
     },
     "pi-btw": {
       "name": "pi-btw",
-      "size": 333592,
-      "timestamp": 1776304173935
+      "timestamp": 1776724438912,
+      "size": 333592
     },
     "pi-jj": {
       "name": "pi-jj",
-      "size": 107361,
-      "timestamp": 1776304173979
+      "timestamp": 1776724438921,
+      "size": 107361
     },
     "pi-jujutsu": {
       "name": "pi-jujutsu",
-      "size": 14315,
-      "timestamp": 1776304174004
+      "timestamp": 1776724438900,
+      "size": 14315
     },
     "@tmustier/pi-usage-extension": {
       "name": "@tmustier/pi-usage-extension",
-      "size": 221038,
-      "timestamp": 1776304174075
+      "timestamp": 1776724438924,
+      "size": 628631
     },
     "pi-dj": {
       "name": "pi-dj",
-      "size": 2859940,
-      "timestamp": 1776304174429
+      "timestamp": 1776724439205,
+      "size": 2859940
     },
     "pi-teams": {
       "name": "pi-teams",
-      "size": 222934,
-      "timestamp": 1776304174435
+      "timestamp": 1776724439205,
+      "size": 222934
     },
     "pi-interactive-shell": {
       "name": "pi-interactive-shell",
-      "size": 1571036,
-      "timestamp": 1776304174454
+      "timestamp": 1776724439190,
+      "size": 1571036
     },
     "pi-lens": {
       "name": "pi-lens",
-      "size": 1486228,
-      "timestamp": 1776304174464
+      "timestamp": 1776724439197,
+      "size": 1774451
     },
     "@ifi/pi-plan": {
       "name": "@ifi/pi-plan",
-      "size": 81928,
-      "timestamp": 1776304174735
+      "timestamp": 1776724439247,
+      "size": 81928
     },
     "pi-extmgr": {
       "name": "pi-extmgr",
-      "size": 244477,
-      "timestamp": 1776304175012
+      "timestamp": 1776724439536,
+      "size": 289919
     },
     "@ifi/oh-pi-themes": {
       "name": "@ifi/oh-pi-themes",
-      "size": 13108,
-      "timestamp": 1776304175105
+      "timestamp": 1776724439558,
+      "size": 13108
+    },
+    "pi-review-loop": {
+      "name": "pi-review-loop",
+      "size": 1439958,
+      "timestamp": 1776724439523
     }
   }
 }
