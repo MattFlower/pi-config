@@ -1,0 +1,10 @@
+{
+  "providers": {
+    "ollama": {
+      "baseUrl": "http://10.1.0.9:8888/v1",
+      "api": "openai-completions",
+      "apiKey": "sk-unsloth-bfcf677db5644283902d9c65abae3eb8",
+      "models": [{ "id": "unsloth/Qwen3.6-27B-GGUF" }]
+    }
+  }
+}

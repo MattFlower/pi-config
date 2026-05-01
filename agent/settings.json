@@ -1,7 +1,7 @@
 {
-  "lastChangelogVersion": "0.67.68",
+  "lastChangelogVersion": "0.71.0",
   "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.3-codex",
+  "defaultModel": "gpt-5.5",
   "defaultThinkingLevel": "high",
   "packages": [
     {
@@ -21,8 +21,12 @@
     "npm:pi-dj",
     "npm:@ifi/oh-pi-themes",
     "npm:pi-extmgr",
-    "npm:pi-review-loop"
+    "npm:pi-review-loop",
+    "npm:pi-vim"
   ],
+  "piVim": {
+    "clipboardMirror": "all"
+  },
   "skills": [],
   "theme": "catppuccin-mocha"
 }
